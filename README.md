@@ -1,2 +1,5 @@
 # git-github-tut
-First time on Git
+Tutorail on Gti Hub
+Commands 
+
+
